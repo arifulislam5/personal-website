@@ -1,0 +1,196 @@
+.zero-section{
+    height: 50px;
+    margin-bottom: 10px;
+    
+}
+.bar{
+    float:right;
+    
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.bar-link{
+    padding-top: 10px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: dimgray;
+    font-weight: 700;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+   
+}
+h2{
+    font-size: 40px;
+    font-weight: 500px;
+    color: rgb(48, 56, 56);
+}
+p{
+    font-size: 17px;
+    color: dimgray;
+    margin-bottom: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    
+  
+   
+        
+}
+.tomato-highlight{
+    color: tomato;
+}
+
+#FirstPera{
+    margin-top: 160px;
+   padding-left: 12%;
+}
+#FirstImage{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    
+}
+.HireMeLink{
+    text-decoration: none;
+    color: white;
+    width: 10px;
+    height: 4px;
+    background-color: tomato;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-size: 12px;
+    
+
+}
+
+
+.half-width img{
+    width: 100%;
+    
+    
+}
+.FirstSection{
+    background-image: url("images/header-bg.png" );
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 710px;  
+}
+#SecondImage{
+    margin-left: 10%;
+ 
+}
+#SecondPera{
+    margin-left: 8%;
+    padding-top: 300PX;
+    margin-bottom: 60px;
+   
+}
+.Download-cv{
+    text-decoration: none;
+    color: white;
+    width: 10px;
+    height: 7px;
+    background-color:tomato ;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-size: 14px;
+    
+
+
+}
+.SecondSection{
+
+    background-image: url("images/biography-bg.png");
+    height: 350px;
+    padding-bottom: 400px;
+    
+
+}
+.intro-part{
+    margin-bottom: 20px;
+    
+    background-color: white;
+}
+.third-section{
+    height: 150px;
+    
+    
+
+}
+.latest{
+    text-align: center;
+}
+.fourth-section{
+    height: 500px;
+    
+   
+}
+.quartile{
+    width: 30%;
+    float: left;
+    margin-right: 1%;
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    height: 80%;
+    background-color: white;
+    padding: 5px;
+}
+.lattest-image{
+    height: 200px;
+    width: 350px;
+    margin-left: 5%;
+}
+#side-lattest{
+    margin-left: 2%;
+}
+.fifthsection{
+    height: 500px;
+}
+
+.lets-chat{
+    background-image: url("images/shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    width: 60%;
+    text-align: center;
+    padding-top: 10px;
+   
+}
+.let-anchor{
+    padding-left: 30px;
+}
+.last-image{
+    height: 50px;
+    width: 30px;
+}
+.last-iamge-class{
+    margin-left: 20px;
+}
+.foot{
+    height: 300px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+footer h3{
+    color: gray;
+    margin-left: 40px;
+    
+}
+.last-anchor{
+    text-decoration: none;
+    color: navy;
+    font-weight: 700;
+    
+}
+.inquery{
+    color: black;
+    margin-right: 80px;
+
+} 
